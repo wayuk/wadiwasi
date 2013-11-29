@@ -1,4 +1,4 @@
 wadiwasi
 ========
 
-Demo repo
+This is just a demo repo for educational purpose.
